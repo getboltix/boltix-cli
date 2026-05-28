@@ -36,3 +36,5 @@ npm-scope = "@boltix"
 npm-package = "cli"
 tap = "getboltix/homebrew-tap"
 formula = "boltix"
+features = ["rustls"]
+default-features = false
